@@ -2,7 +2,7 @@
 song_number: 1
 title: "Choosing Texas"
 performer: "Ella Langley"
-rating: 10
+rating: 5
 ---
 
 _Choosing Texas by Ella Langley is a great song that everyone has been blasting all summer long. This song has broken records and for good reason. Since the release of this song Ella Langley has become a householf name and sells out concerts._
