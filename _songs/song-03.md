@@ -1,17 +1,10 @@
 ---
 song_number: 3
-title: "Song Title 03"
-performer: "Performer Name"
-rating: 0
+title: "Janice STFU"
+performer: "Drake"
+rating: 5
 ---
 
-_This is a placeholder page. Replace the front matter above with the song's real
-title, performer, and your rating (0-5), then replace this body text with your
-own review, written in Markdown._
+_Janice STFU by Drake has been one of the songs I've heard the most over the summer. This song came off of the much anticipated album Ice Man._
 
-Write a first paragraph introducing the song: when it came out, the vibe it
-has, and why it earns a spot on your Songs of the Summer list.
 
-Write a second paragraph going deeper &mdash; the lyrics, the production, a
-memory it's tied to, or how it compares to other songs on the list. Add as
-many paragraphs as you like; this is just a starting point.
