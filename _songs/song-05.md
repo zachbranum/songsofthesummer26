@@ -1,17 +1,10 @@
 ---
 song_number: 5
-title: "Song Title 05"
-performer: "Performer Name"
-rating: 0
+title: "Doors"
+performer: "Noah Khan"
+rating: 5
 ---
 
-_This is a placeholder page. Replace the front matter above with the song's real
-title, performer, and your rating (0-5), then replace this body text with your
-own review, written in Markdown._
+_Doors by Noah Khan is my favorite song off of his most recent album. He's one of the biggest artist in the US right now and has been selling out shows al over the country._
 
-Write a first paragraph introducing the song: when it came out, the vibe it
-has, and why it earns a spot on your Songs of the Summer list.
 
-Write a second paragraph going deeper &mdash; the lyrics, the production, a
-memory it's tied to, or how it compares to other songs on the list. Add as
-many paragraphs as you like; this is just a starting point.
